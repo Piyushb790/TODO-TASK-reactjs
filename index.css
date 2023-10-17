@@ -1,0 +1,27 @@
+.App{
+    height: 500px;
+    width: 700px;
+    border: 1px solid #000;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.inp{
+    padding: 10px;
+}
+.btn{
+    border: none;
+    background: none;
+    font-size: 24px;
+}
+.each-item{
+    display: flex;
+}
+
+.show-item{
+    display: flex;
+    flex-direction: column-reverse;
+    
+
+}
